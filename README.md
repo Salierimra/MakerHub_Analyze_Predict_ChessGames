@@ -133,3 +133,16 @@ This kind of insight is precisely what this project is designed to surface. By a
   
 <img width="558" height="198" alt="image" src="https://github.com/user-attachments/assets/f0ea5faf-e34c-46a3-a86f-df16b9f567bc" />
 
+## Flask -  Using DL Model with local html page
+
+### Use
+
+1. Launch the ORM_Creation_fill_BDD_V4 script using terminal :
+
+- python ORM_Creation_Fill_BDD_Rela_V4.py --mode manuel
+
+2. open browser and go to 127.0.0.1
+3. Follow instructions
+
+<img width="455" height="777" alt="image" src="https://github.com/user-attachments/assets/f211d5f1-677f-46b1-8f1b-b885c9c0fc2a" />
+
